@@ -1,3 +1,5 @@
+console.log("SOURCE JS LOADED");
+
 (function(){
 
 console.log("UptoLink Bypass running...");
